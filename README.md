@@ -658,9 +658,8 @@ The unification of these five domains under the "completion law" is one of the g
 ---
 
 **Document Version**: 1.0 | **Date**: June 23, 2026 | **Classification**: Open Research  
-**Author Team**: Synthetic Analysis Labs, ERI | **Contact**: [research@eri-labs.org](mailto:research@eri-labs.org)
 
-**Citation**: Please cite this work as:
+
 
 > ERI Labs Synthetic Analysis Team (2026). "CORDIC, Biology, and the Leech Lattice: A Unified Framework for Information Completion Across Scales." *Preprint*, arXiv:[RESERVED].
 
